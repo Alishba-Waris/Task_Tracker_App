@@ -1,3 +1,25 @@
+# React: Task Tracker App
+
+A simple ReactJS application that allows users to add and view tasks. This project demonstrates basic React concepts, including state management and component structure.
+
+# Features
+
+Add new tasks to the list.
+View a list of added tasks.
+Clear input field after adding a task.
+
+# Technologies
+
+ReactJS: A JavaScript library for building user interfaces.
+CSS: Styling for the application.
+JavaScript (ES6+): Core language features like arrow functions and destructuring.
+
+# Usage
+Once the app is running, you’ll see an input field where you can type in a task.
+After typing a task, click the "Add Task" button.
+The task will appear in the list below the input field.
+You can continue to add more tasks, and they will be displayed in the order they were added.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
